@@ -1,0 +1,17 @@
+package ocp;
+
+public class MobileNotificationService implements NotificationService{
+
+	@Override
+	public void sendOtp(String medium) {
+		//logic to implement mobile notification otp
+		
+	}
+
+	@Override
+	public void sendTransactionReport(String medium) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
